@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... I'm not sure yet! I want to get to a point where I feel comfortable utilizing the tools for data mining, visualization, and more before I try to contribute on projects with others. I'm definitely a learn-as-you-go kind of person, but I want to make sure I have some sort of foundation first! In the future, I would love to be combining this new found passion with my desire to help others, whether that be through data analysis contributing to health/medicinal discoveries, or otherwise! I really enjoyed my position in R&D, and I believe that a company/project like that could benefit greatly from data scientists to launch themselves forward in the research world. Perhaps that will be me soon enough!
 - 📫 How to reach me: I'm unsure if there's a system on here for contacting people (newbie alert!!), but I do have a LinkedIn profile I keep active on that I would love to connect on! https://www.linkedin.com/in/kaitlyn-schisler/
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I went abroad for two different archaeological digs! I excavated a Mayan city in Belize, as well as an unmarked graveyard in Poland from the 17th century! I have a deep passion for biological anthropology, I guess I just really ~dig~ bones.... you get it?
+- ⚡ Fun fact: I went abroad for two different archaeological digs! I excavated a Mayan city in Belize, as well as an unmarked graveyard in Poland from the 17th century! I have a deep passion for biological anthropology, I guess I just really *dig* bones.... you get it?
 
 <!---
 k-schisler/k-schisler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
