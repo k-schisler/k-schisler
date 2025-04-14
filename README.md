@@ -1,12 +1,64 @@
-- 👋 Hi, I’m @k-schisler, but you can call me Kaitlyn. I'm a career pivoter looking to make a big switch! I have a Bachelors degree in Forensics and Anthropology, with experience in medical device R&D and QC lab procedures in Manufacturing. I'm looking to switch into a tech based career looking at data and extrapolating information from the trends hidden within them. I've gotten a taste for it in the R&D position I had where I was looking at large amounts of data from initial testing of the instrument and assay. I've been furthering that interest working in the Manufacturing QC lab, developing VBA code in Excel for rapid data analysis and reporting. This very small tip of the iceberg has me craving to dive head first into the water to see just how deep it can go!
-- 👀 I’m interested in data science and big data! I love the idea of there being hidden patterns and information in data sets that can give clues into advancements and leading to new discoveries. It's my very own haystack filled with golden needles to find!
-- 🌱 I’m currently learning Biological Data Science at Arizona State University via their online graduate program! I'm hoping to use this profile to track my progress, practice, and learn from others! So far, I only have a base knowledge of SQL and Python, with a bit more experience in VBA for Excel. We've just started learning about R and RStudio in the stats class I'm enrolled in too!
-- 💞️ I’m looking to collaborate on ... I'm not sure yet! I want to get to a point where I feel comfortable utilizing the relevant tools before I try to contribute on projects with others. I'm definitely a learn-as-you-go kind of person, but I want to make sure I have some sort of foundation first! I suppose a good start could be the Kaggle competitions! In the future, I would love to be combining this new found passion with my desire to help others, whether that be through data analysis contributing to health/medicinal discoveries, or otherwise!
-- 📫 How to reach me: I'm unsure if there's a system on here for contacting people (newbie alert!!), but I do have a LinkedIn profile I keep active on that I would love to connect on! https://www.linkedin.com/in/kaitlyn-schisler/
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I went abroad for two different archaeological digs! I excavated a Mayan city in Belize, as well as an unmarked graveyard in Poland from the 17th century! I have a deep passion for biological anthropology, I guess I just really *dig* bones.... you get it?
+# 👋 Hi, I’m Kaitlyn! (she/her)
 
-<!---
-k-schisler/k-schisler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my little corner of GitHub! I'm a career-switcher with a background in Forensics and Anthropology, currently diving headfirst into the world of **Biological Data Science**. I'm endlessly curious about what we can learn from the patterns hiding in data — whether that's related to health, gaming, archaeology, or even my ever-growing tea collection ☕
+
+---
+
+## 🎓 A Quick Snapshot
+
+🧪 I spent the early part of my career in **medical device R&D** and **manufacturing QC labs**, where I started working with real-world data and discovered I *loved it*.  
+📚 Now, I’m pursuing a **Master’s in Biological Data Science** through ASU Online (Fall 2024–May 2026) while working full time in the QC laboratory.  
+🌱 I’ve completed:
+- Statistics for Biological Data Science I & II  
+- Intro to Python Programming for Problem Solving  
+- *Currently taking*: Database Systems & Python (hello, ERDs and SQL!)
+
+---
+
+## 🔬 What I'm Working On
+
+📊 **Tea-rrific Analysis** — I cataloged and analyzed my 110+ tea collection because… why not?  
+💔 **Heartbreak & Data** — Explored relationship status and heart health using NHANES in a stats project inspired by “Broken Heart Syndrome” ([yes, it’s real!](https://www.mayoclinic.org/diseases-conditions/broken-heart-syndrome/symptoms-causes/syc-20354617)).  
+🧬 **Lab ERD Design** — Planning out an Entity Relationship Diagram to help our lab integrate better with our new LIMS database. It's like digital anthropology; connecting the dots between all the sample data.
+
+---
+
+## 👀 Interests
+
+- 🧬 Health & medical data  
+- 🎮 Gaming & tech  
+- 🔬 Biotech & environmental data  
+- ☠️ Anthropological data (If you know anyone using data science in archaeology or osteology, I want to talk to them!)
+
+---
+
+## 💬 Let’s Connect
+
+I'm the **Online Cohort Ambassador** for ASU's BDS program, and I love talking with others about learning paths, career pivots, and weirdly specific datasets.  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kaitlyn-schisler/) — I’m always up for a good data story!  
+💻 Working on building a GitHub Pages portfolio soon, so stay tuned!
+
+---
+
+## 📈 Languages I Use
+<!--![Kaitlyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-schisler&show_icons=true&theme=tokyonight&hide=contribs&count_private=true)-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-schisler&layout=compact&theme=tokyonight)
+
+---
+
+## ⚡ Fun Fact
+
+I’ve participated in two major archaeological digs:  
+🏺 One at a Mayan site in Belize, and another at a 17th-century graveyard in Poland.  
+🍁 I also worked in public sector archaeology in ON, Canada from mid 2020 to late 2021.  
+Let’s just say… I *really* dig bones.  
+
+---  
+
+## 🤝 Inspired By
+I love learning from folks like Jess Ramos, Daliana Liu, and Andrew Jones, who make data science feel exciting, accessible, and full of possibility. If you have other creators or newsletters you recommend, send them my way!  
+
+---  
+<!-- You can add more cards like GitHub stats or streaks if you want later! -->
+
