@@ -7,11 +7,15 @@ Welcome to my little corner of GitHub! I'm a career-switcher with a background i
 ## 🎓 A Quick Snapshot
 
 🧪 I spent the early part of my career in **medical device R&D** and **manufacturing QC labs**, where I started working with real-world data and discovered I *loved it*.  
+ 
 📚 Now, I’m pursuing a **Master’s in Biological Data Science** through ASU Online (Fall 2024–May 2026) while working full time in the QC laboratory.  
+ 
 🌱 I’ve completed:
 - Statistics for Biological Data Science I & II  
-- Intro to Python Programming for Problem Solving  
-- *Currently taking*: Database Systems & Python (hello, ERDs and SQL!)
+- Intro to Python Programming for Problem Solving
+- Database Systems & Python
+- Applied Math Tech in Biology
+- *Next up*: Integrative Biology I
 
 ---
 
