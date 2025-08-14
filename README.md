@@ -15,7 +15,8 @@ Welcome to my little corner of GitHub! I'm a career-switcher with a background i
 - Intro to Python Programming for Problem Solving
 - Database Systems & Python
 - Applied Math Tech in Biology
-- *Next up*: Integrative Biology I
+- Integrative Biology I
+- *Next up*: Evolutionary Biology
 
 ---
 
