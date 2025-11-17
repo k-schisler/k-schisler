@@ -8,7 +8,7 @@ Welcome to my little corner of GitHub! I'm a career-switcher with a background i
 
 🧪 I spent the early part of my career in **medical device R&D** and **manufacturing QC labs**, where I started working with real-world data and discovered I *loved it*.  
  
-📚 Now, I’m pursuing a **Master’s in Biological Data Science** through ASU Online (Fall 2024–May 2026) while working full time in the QC laboratory.  
+📚 Now, I’m pursuing a **Master’s in Biological Data Science** through Arizona State University Online (Fall 2024–May 2026), focusing on helping others and representing the students in the program.  
  
 🌱 I’ve completed:
 - Statistics for Biological Data Science I & II  
@@ -16,15 +16,17 @@ Welcome to my little corner of GitHub! I'm a career-switcher with a background i
 - Database Systems & Python
 - Applied Math Tech in Biology
 - Integrative Biology I
-- *Next up*: Evolutionary Biology
+- Evolutionary Biology (Integrative Biology II)
+- *In Progress*: Applied Learning Lab, Foundaations of Biomedical Informatics Methods I
+- *Next Up*: Capstone I and II
 
 ---
 
 ## 🔬 What I'm Working On
 
 📊 **Tea-rrific Analysis** — I cataloged and analyzed my 110+ tea collection because… why not?  
-💔 **Heartbreak & Data** — Explored relationship status and heart health using NHANES in a stats project inspired by “Broken Heart Syndrome” ([yes, it’s real!](https://www.mayoclinic.org/diseases-conditions/broken-heart-syndrome/symptoms-causes/syc-20354617)).  
-🧬 **Lab ERD Design** — Planning out an Entity Relationship Diagram to help our lab integrate better with our new LIMS database. It's like digital anthropology; connecting the dots between all the sample data.
+💔 **Heartbreak & Data** — Explored relationship status and heart health using NHANES in a project for Statistics I at ASU inspired by “Broken Heart Syndrome” ([yes, it’s real!](https://www.mayoclinic.org/diseases-conditions/broken-heart-syndrome/symptoms-causes/syc-20354617)).  
+🧬 **Capstone Planning** — Soon, I'll be starting my final capstone for my Master's Program, working with data and collaborating with a few classmates to flesh out a noteworthy project and earn my degree!
 
 ---
 
@@ -39,9 +41,9 @@ Welcome to my little corner of GitHub! I'm a career-switcher with a background i
 
 ## 💬 Let’s Connect
 
-I'm the **Online Cohort Ambassador** for ASU's BDS program, and I love talking with others about learning paths, career pivots, and weirdly specific datasets.  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kaitlyn-schisler/) — I’m always up for a good data story!  
-💻 Working on building a GitHub Pages portfolio soon, so stay tuned!
+I'm the **Online Cohort Ambassador** for ASU's BDS program, and I love talking with others about learning paths, career pivots, and weirdly specific datasets. We're also interested in hosting workshops and talks for the students in our program, and postentially beyond. If you know anyone (or you yourself) fit this bill and you're interested, let's chat!  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kaitlyn-schisler/)!  
+💻 Working on building a GitHub Pages portfolio-- Any tips and tricks are greatly appreciated!
 
 ---
 
