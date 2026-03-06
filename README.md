@@ -29,16 +29,19 @@ Throughout my experiences, I've utilized Excel/VBA, Unix, SQL, Python, R, and ot
 - Applied Math Tech in Biology
 - Integrative Biology I
 - Evolutionary Biology (Integrative Biology II)
-- *In Progress*: Applied Learning Lab, Foundaations of Biomedical Informatics Methods I
-- *Next Up*: Capstone I and II  
+- Capstone I
+- *In Progress*: Capstone II
+- *Next Up*: Graduation 🎓 
 
 ---
 
 ## 🔬 What I'm Working On
 
-📊 **Tea-rrific Analysis** — I cataloged and analyzed my 110+ tea collection because… why not?  
+🧬 **Gut Microbiota & Colorectal Cancer** — For my capstone project, my team and I are analyzing microbial metagenomic data from the human gastrointestinal tract in relation to colorectal cancer pregression! The goal is to eventually build a supervised machine learning model that can accurately classify the stage of CRC progression from a taxonomic and functional profile. Check out some of the work we are doing on that here → [CRC progression and Gut Microbiota](https://github.com/chejj/Therayess)   
+  
 💔 **Heartbreak & Data** — Explored relationship status and heart health using NHANES in a project for Statistics I at ASU inspired by “Broken Heart Syndrome” ([yes, it’s real!](https://www.mayoclinic.org/diseases-conditions/broken-heart-syndrome/symptoms-causes/syc-20354617)).  
-🧬 **Capstone Planning** — Soon, I'll be starting my final capstone for my Master's Program, working with data and collaborating with a few classmates to flesh out a noteworthy project and earn my degree!  
+  
+🍵 **Tea-rrific Analysis** — I cataloged and analyzed my 110+ tea collection because… why not?  
 
 ---
 
