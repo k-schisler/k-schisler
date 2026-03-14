@@ -8,11 +8,13 @@ Welcome to my little corner of GitHub! With a foundation in Forensics and Anthro
 
 ---
 
-## 📈 Languages and Tools I Use
-<!--![Kaitlyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-schisler&show_icons=true&theme=tokyonight&hide=contribs&count_private=true)-->
-Throughout my experiences, I've utilized Excel/VBA, Unix, SQL, Python, R, and others to a more minimal extent. However, I found this cool way to display what's here on my GitHub! Check it out ↓↓  
+## 🔬 What I'm Working On
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-schisler&layout=compact&theme=tokyonight)
+🧬 **Gut Microbiota & Colorectal Cancer** — For my capstone project, my team and I are analyzing microbial metagenomic data from the human gastrointestinal tract in relation to colorectal cancer pregression! The goal is to eventually build a supervised machine learning model that can accurately classify the stage of CRC progression from a taxonomic and functional profile. Check out some of the work we are doing on that here → [CRC progression and Gut Microbiota](https://github.com/chejj/Therayess)   
+  
+💔 **Heartbreak & Data** — Explored relationship status and heart health using NHANES in a project for Statistics I at ASU inspired by “Broken Heart Syndrome” ([yes, it’s real!](https://www.mayoclinic.org/diseases-conditions/broken-heart-syndrome/symptoms-causes/syc-20354617)).  
+  
+🍵 **Tea-rrific Analysis** — I cataloged and analyzed my 110+ tea collection because… why not?
 
 ---
 
@@ -35,16 +37,6 @@ Throughout my experiences, I've utilized Excel/VBA, Unix, SQL, Python, R, and ot
 
 ---
 
-## 🔬 What I'm Working On
-
-🧬 **Gut Microbiota & Colorectal Cancer** — For my capstone project, my team and I are analyzing microbial metagenomic data from the human gastrointestinal tract in relation to colorectal cancer pregression! The goal is to eventually build a supervised machine learning model that can accurately classify the stage of CRC progression from a taxonomic and functional profile. Check out some of the work we are doing on that here → [CRC progression and Gut Microbiota](https://github.com/chejj/Therayess)   
-  
-💔 **Heartbreak & Data** — Explored relationship status and heart health using NHANES in a project for Statistics I at ASU inspired by “Broken Heart Syndrome” ([yes, it’s real!](https://www.mayoclinic.org/diseases-conditions/broken-heart-syndrome/symptoms-causes/syc-20354617)).  
-  
-🍵 **Tea-rrific Analysis** — I cataloged and analyzed my 110+ tea collection because… why not?  
-
----
-
 ## 💬 Let’s Connect
 
 I'm the **Online Cohort Ambassador** for ASU's BDS program, and I love talking with others about learning paths, career pivots, and weirdly specific datasets. We're also interested in hosting workshops and talks for the students in our program, and postentially beyond. If you know anyone (or you yourself) fit this bill and you're interested, let's chat!  
@@ -61,6 +53,14 @@ I’ve participated in two major archaeological digs:
 Let’s just say… I *really* dig bones.  
 
 ---  
+
+## 📈 Languages and Tools I Use
+<!--![Kaitlyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-schisler&show_icons=true&theme=tokyonight&hide=contribs&count_private=true)-->
+Throughout my experiences, I've utilized Excel/VBA, Unix, SQL, Python, R, and others to a more minimal extent. However, I found this cool way to display what's here on my GitHub! Check it out ↓↓  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-schisler&layout=compact&theme=tokyonight)
+
+---
 
 ## 🤝 Inspired By
 I love learning from folks like Jess Ramos, Daliana Liu, and Andrew Jones, who make data science feel exciting, accessible, and full of possibility. If you have other creators or newsletters you recommend, send them my way!  
